@@ -1,4 +1,3 @@
-# The Nerdy Cat | Data Science Extraordinaire
 👋 I'm Edward 👋
 
 My Maine Coon cat, Perkins, started my Data Science journey with me many years ago and is a genius, which is why I have a picture of him looking funny and wearing glasses. He is a big cat with a big brain. I have in since got a Ragdoll cat called Benvolio. He is not smart, but extremely fluffy and cute.
